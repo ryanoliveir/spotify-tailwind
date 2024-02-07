@@ -1,7 +1,4 @@
-import { 
-  Home, 
-  Search, 
-  Library, 
+import {
   ChevronRight, 
   ChevronLeft, 
   Play

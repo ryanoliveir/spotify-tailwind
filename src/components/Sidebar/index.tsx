@@ -24,11 +24,11 @@ export function Sidebar () {
           </nav>
 
           <nav className="mt-10 pt-10 border-t border-zinc-100 flex flex-col gap-1 ">
-            <a className="text-sn text-zinc-400 hover:text-zinc-100" href="">PlayList 1</a>
-            <a className="text-sn text-zinc-400 hover:text-zinc-100" href="">PlayList 2</a>
-            <a className="text-sn text-zinc-400 hover:text-zinc-100" href="">PlayList 3</a>
-            <a className="text-sn text-zinc-400 hover:text-zinc-100" href="">PlayList 4</a>
-            <a className="text-sn text-zinc-400 hover:text-zinc-100" href="">PlayList 5</a>
+            <a className="text-sn text-zinc-400 hover:text-zinc-100" href="">Grupo Jesus</a>
+            <a className="text-sn text-zinc-400 hover:text-zinc-100" href="">Treino</a>
+            <a className="text-sn text-zinc-400 hover:text-zinc-100" href="">LoFi</a>
+            <a className="text-sn text-zinc-400 hover:text-zinc-100" href="">Trabalho</a>
+            <a className="text-sn text-zinc-400 hover:text-zinc-100" href="">Católicas</a>
           </nav>
         </aside>
 
